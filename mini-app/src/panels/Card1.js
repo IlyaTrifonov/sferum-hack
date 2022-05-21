@@ -13,7 +13,7 @@ const Card1 = props => (
         <Group>
             <Div>
                 <Text weight="regular">
-                    Это текст для карточки
+                    Это текст для первой карточки карточки
                 </Text>
             </Div>
         </Group>
